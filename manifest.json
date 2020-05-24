@@ -4,10 +4,10 @@
     "description": "Quick Links to most frequently used Websites",
     "version": "1.0",
     "icons": {
-        "96": "code-96.png"
+        "128": "logo-128.png"
     },
     "browser_action": {
-        "default_icon": "code-19.png",
+        "default_icon": "logo-19.png",
         "default_popup": "launcher.html"
     },
     "permissions": ["activeTab"]
