@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Programmer's Launcher",
-    "description": "Quick Links to most frequently used Websites",
+    "name": "The Programmer's Launcher",
+    "description": "Access the most frequently used websites from any tab",
     "version": "1.0",
     "icons": {
         "128": "logo-128.png"
