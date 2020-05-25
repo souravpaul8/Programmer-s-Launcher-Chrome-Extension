@@ -9,4 +9,5 @@ For now, until I publish it to the Chrome webstore, you can use it by following 
 5. Click on "Load Unpacked" and select the Extracted folder.
 This will add the extension to your browser. Then Enjoy using it !
 
+Download from the Firefox Add-ons at https://addons.mozilla.org/en-US/firefox/addon/sourav-paul/?src=search
 Soon the stable build will be uploaded to the Chrome Webstore.
